@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ShopDungDao
+Implementation-Version: 1.0
+Built-By: Administrator
+Implementation-Vendor-Id: com.Shop24h.DungDao
+Build-Jdk: 1.8.0_231
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ShopDungDao
+Created-By: Maven Integration for Eclipse
+

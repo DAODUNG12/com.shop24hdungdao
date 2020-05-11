@@ -1,0 +1,23 @@
+.search-bottom {
+	padding-bottom: 10px;
+}
+.panel-title {
+	text-align: center;
+}
+.register-text {
+	padding-top: 15px;
+}
+
+.action-register {
+	text-align:center;
+}
+.image-td {
+    width: 100px;
+}
+.message-delete {
+	color: red;
+}
+.action-th {
+	text-align: center;
+	width: 8%;
+}
